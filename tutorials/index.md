@@ -3,5 +3,5 @@
 
 Click on below link to visit subpage
 
-[Html](./html/index.md)
-[JS](./js/index.md)
+[Html](./tutorials/html/index.md)
+[JS](./tutorials/js/index.md)
