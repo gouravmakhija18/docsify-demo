@@ -1,7 +1,7 @@
 
-# Tutorials for every technologist
+# Main page
 
-Learn about all these great technologies:
+Click on below link to visit subpage
 
 [Html](./html/index.md)
 [JS](./js/index.md)
